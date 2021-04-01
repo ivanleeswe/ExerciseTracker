@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+npm install in excercise tracker folder with package json
+go to cloud.mongodb.com to create an account, fill in all the get started steps (build first cluster, create first db, connect cluster)
+connect to application and copy and paste connection string into .env file here
+"mongodb+srv://ileeDB:<password>@cluster0.rd9cz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+type in password into password
+type nodemon server in backend folder
+then type npm start in excercise folder
+
